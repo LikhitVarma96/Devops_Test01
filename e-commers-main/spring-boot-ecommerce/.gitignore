@@ -1,6 +1,8 @@
-<<<<<<< HEAD
-/target/
+HELP.md
+target/
 !.mvn/wrapper/maven-wrapper.jar
+!**/src/main/**
+!**/src/test/**
 
 ### STS ###
 .apt_generated
@@ -19,16 +21,11 @@
 
 ### NetBeans ###
 /nbproject/private/
-/build/
 /nbbuild/
 /dist/
 /nbdist/
 /.nb-gradle/
-=======
-*.log
-*.zip
-node_modules/
-*.log
-*.zip
-node_modules/
->>>>>>> 6a4d96d4c245714cb7e8e564171b7e3b9872ec46
+build/
+
+### VS Code ###
+.vscode/

@@ -1,3 +1,7 @@
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+>>>>>>> b687e6716865f54e0693f1ab52ba2d1fca7d2702
 /target/
 !.mvn/wrapper/maven-wrapper.jar
 
@@ -22,4 +26,16 @@
 /nbbuild/
 /dist/
 /nbdist/
+<<<<<<< HEAD
 /.nb-gradle/
+=======
+/.nb-gradle/
+=======
+*.log
+*.zip
+node_modules/
+*.log
+*.zip
+node_modules/
+>>>>>>> 6a4d96d4c245714cb7e8e564171b7e3b9872ec46
+>>>>>>> b687e6716865f54e0693f1ab52ba2d1fca7d2702

@@ -1,4 +1,8 @@
-echo "test devops practice"
+<<<<<<< HEAD
+echo "test devops practice-in UAT ENV-Created Branch "
 
 "TESTING Dev Environment"
 SDFSDFSDF
+=======
+SDFSDFSDF
+>>>>>>> b687e6716865f54e0693f1ab52ba2d1fca7d2702
